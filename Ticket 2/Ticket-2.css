@@ -1,0 +1,37 @@
+/*Ticket-2 Css*/
+
+.container {
+	width: 100%;
+	max-width: 800px;
+	margin: 0 auto;
+}
+
+.text {
+	text-align: center;
+}
+
+.text h1{
+	font-size: normal;
+}
+
+.text h4{
+	font-size: normal;
+}
+
+.text p{
+	font-size: normal;
+}
+
+.input input{
+	display: block;
+	margin: 0 auto;
+}
+
+.submit {
+	text-align: center;
+}
+
+#feedback {
+	text-align: center;
+	font-size: normal;
+}

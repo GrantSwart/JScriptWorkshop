@@ -1,0 +1,19 @@
+body {
+	margin-top: 30px;
+	background-color: ;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+
+img {
+	border: 2px solid black;
+	padding: 5px;
+}
+
+h1 {
+	color: red;
+}
+
+input {
+	width: 180px;
+}
